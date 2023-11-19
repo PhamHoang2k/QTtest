@@ -1,1 +1,1 @@
-Build a NotePad app chil chill
+Build a Notepad app using QT C++ chill chill
