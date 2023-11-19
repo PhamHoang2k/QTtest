@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>C:/Users/Dell/Downloads/Icons/Icons/Copy.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/Cut.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/DeleteSticky.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/favicon.ico</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/Highlight.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/New.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/Open.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/Paste.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/Save.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/Sticky.bmp</file>
+        <file>C:/Users/Dell/Downloads/Icons/Icons/Turtle.png</file>
+    </qresource>
+</RCC>
